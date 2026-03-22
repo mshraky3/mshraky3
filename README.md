@@ -2,54 +2,54 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Mahmoud%20Alshraky&fontAlign=50&fontAlignY=35&color=0:0ea5e9,100:2563eb&fontColor=ffffff" alt="Header Banner" />
 
-<img src="https://github.com/mshraky3.png" width="96" style="border-radius:50%;" alt="Mahmoud Alshraky" />
-
 <p>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&center=true&vCenter=true&width=760&lines=Full-Stack+Engineer;React+%7C+Node.js+%7C+Express+%7C+PostgreSQL;Building+fast%2C+scalable%2C+production+web+products" alt="Typing Intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=800&center=true&vCenter=true&width=760&lines=Full-Stack+Engineer;React+%7C+Node.js+%7C+Express+%7C+PostgreSQL;I+build+fast%2C+scalable+web+products" alt="Typing Intro" />
   </a>
 </p>
 
 </div>
 
-## Featured Projects
-<table>
-  <tr>
-    <th>Project</th>
-    <th>Summary</th>
-    <th>Live</th>
-  </tr>
-  <tr>
-    <td>Alhisony Law</td>
-    <td>Professional legal website with 3D interaction and SEO-focused architecture.</td>
-    <td><a href="https://www.alhisony.com/">Visit</a></td>
-  </tr>
-  <tr>
-    <td>SMLE Question Bank</td>
-    <td>EdTech platform for exam prep with large question bank and analytics-driven learning.</td>
-    <td><a href="https://www.smle-question-bank.com/">Visit</a></td>
-  </tr>
-  <tr>
-    <td>Erth Environmental</td>
-    <td>Bilingual business platform with streamlined request workflows and API integrations.</td>
-    <td><a href="https://erthfc.com/">Visit</a></td>
-  </tr>
-  <tr>
-    <td>Enterprise HR System</td>
-    <td>Private multi-branch HR platform covering employee lifecycle, documents, payroll, and reporting.</td>
-    <td>Private</td>
-  </tr>
-</table>
-
-## Contribution Snake
+## Stack
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mshraky3/mshraky3/output/github-contribution-grid-snake-dark.svg" />
-  <img alt="Contribution Snake Animation" src="https://raw.githubusercontent.com/mshraky3/mshraky3/output/github-contribution-grid-snake.svg" />
-</picture>
+<img src="https://skillicons.dev/icons?i=react,vite,threejs,js,nodejs,express,postgres,vercel,git,github,css,html" alt="Tech Stack Logos" />
 
 </div>
+
+## Project Spotlights
+
+### Alhisony Law
+`React 19` `Three.js` `Node.js` `Express` `SEO`
+
+Professional legal website with interactive 3D, clean UX, and SEO-focused architecture.
+
+<p>
+  <a href="https://www.alhisony.com/"><img src="https://img.shields.io/badge/Live-Demo-0ea5e9?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Alhisony Live" /></a>
+</p>
+
+### SMLE Question Bank
+`React` `PostgreSQL` `Node.js` `Analytics`
+
+EdTech platform for exam prep with a large question bank and data-driven learning flow.
+
+<p>
+  <a href="https://www.smle-question-bank.com/"><img src="https://img.shields.io/badge/Live-Demo-10b981?style=for-the-badge&logo=google-chrome&logoColor=white" alt="SMLE Live" /></a>
+</p>
+
+### Erth Environmental
+`React` `Express` `Integrations`
+
+Bilingual business platform with streamlined request workflows and API integrations.
+
+<p>
+  <a href="https://erthfc.com/"><img src="https://img.shields.io/badge/Live-Demo-f59e0b?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Erth Live" /></a>
+</p>
+
+### Enterprise HR System (Private)
+`React` `Node.js` `Express` `PostgreSQL` `JWT`
+
+Multi-branch HR platform for employee lifecycle, documents, payroll, and reporting.
 
 ## Contact
 - Portfolio: https://web-dev-seven-iota.vercel.app/
