@@ -3,7 +3,7 @@
 Software engineer, full-stack. I build production platforms and keep them running: React, Node.js, PostgreSQL, plus TypeScript and Python where the job needs them.
 Computer Science, Qassim University (expected June 2027). Based in Qassim, Saudi Arabia.
 
-**Portfolio:** https://web-dev-seven-iota.vercel.app (scroll to watch my systems get built, layer by layer)
+**Portfolio:** https://alshraky.xyz (scroll to watch my systems get built, layer by layer)
 
 ## What I have built
 
